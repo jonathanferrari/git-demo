@@ -1,8 +1,4 @@
 This is a test of VS CODE and github desktop
 Line 2
 This is the third line
-<<<<<<< Updated upstream
-This is line 4
-=======
 fourth line is here
->>>>>>> Stashed changes
